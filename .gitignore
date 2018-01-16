@@ -1,0 +1,8 @@
+.terraform/**/*
+.ssh/**/*
+!.ssh/.gitkeep
+.*.tfvars
+plan
+
+terraform.tfstate*
+
